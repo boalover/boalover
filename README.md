@@ -1,6 +1,4 @@
-## Hi there 👋 
-## Chung-Ang University
-## Art & Technology
+## Chung_Ang University - Art & Technology 🙋‍♂️
 
 
 <!--
