@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+## Chung-Ang University
+## Art & Technology
+
 
 <!--
 **boalover/boalover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
