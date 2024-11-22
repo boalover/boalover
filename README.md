@@ -15,9 +15,11 @@
 - **[project_Data Visualization](https://github.com/boalover/Data-visualize)**: python을 활용해서 건강과 관련된 데이터를 사용해 다양한 지표를 시각화 했습니다.
 
 ## 📞 연락처
-- Email: rkd9530@gmail.com
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boalover)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkd_9530)
+ Email: rkd9530@gmail.com
+ 
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boalover)
+ 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkd_9530)
 
 ---
 
