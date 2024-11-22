@@ -10,7 +10,7 @@
 
 ## 📂 주요 프로젝트
 - **[프로젝트명](링크)**: 주요 문제 해결 및 결과. 기술 스택: React, Node.js.
-- **[다른 프로젝트](링크)**: 간단한 설명.
+- **[project_Data Visualization](https://github.com/boalover/Data-visualize)**: python을 활용해서 건강과 관련된 데이터를 사용해 다양한 지표를 시각화 했습니다.
 
 ## 📞 연락처
 - Email: rkd9530@gmail.com
