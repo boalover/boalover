@@ -15,7 +15,7 @@ I love solving problems and strive to change the world through the fusion of tec
 - **Interests**: Data Analysis, Consulting  
 - **Hobbies**: Fitness (since 2024.7.22), Soccer, Meditation  
 - **Goal**: To become someone who influences the world, even if it's just by 0.00001%  
-- **Studyng at: ChungAng University - Major in Art&Technology 
+- **Studyng at**: ChungAng University - Major in Art&Technology 
 ---
 
 ## 🌟 Tech Stack  
