@@ -14,9 +14,6 @@
 - **[Art&Technology_final](https://github.com/boalover/no_pain_no_gain.git)**: JavaScript 기반 언어를 사용하여 주파수에 따라 특정 색이 나타나도록 시각화했습니다.
 - **[project_Data Visualization](https://github.com/boalover/Data-visualize)**: Python을 활용하여 건강과 관련된 데이터를 시각화한 프로젝트입니다.
 
-## 📊 GitHub 활동
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boalover&layout=compact&theme=dark)  
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boalover&theme=github)
 
 ## 🏆 활동 뱃지
 ![Commits](https://img.shields.io/badge/Commits-100%2B-blue?style=for-the-badge)  
@@ -32,3 +29,7 @@
 ---
 
 💬 **프로젝트나 창의적인 도전을 함께할 분들은 언제든지 연락주세요!** 🎨✨
+
+## 📊 GitHub 활동
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boalover&layout=compact&theme=dark)  
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boalover&theme=github)
