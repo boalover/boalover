@@ -9,7 +9,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF9800?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-FF4A1C?style=for-the-badge&logo=p5.js&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ## 📂 주요 프로젝트
 - **[Art&Technology_final](https://github.com/boalover/no_pain_no_gain.git)**: JavaScript 기반 언어를 사용하여 주파수에 따라 특정 색이 나타나도록 시각화했습니다.
 - **[project_Data Visualization](https://github.com/boalover/Data-visualize)**: Python을 활용하여 건강과 관련된 데이터를 시각화한 프로젝트입니다.
